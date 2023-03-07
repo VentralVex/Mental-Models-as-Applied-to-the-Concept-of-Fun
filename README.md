@@ -1,2 +1,2 @@
-# LaTeX-Articles
-This repository contains all of the LaTeX articles I have written, either formally or informally.
+#Mental-Models-as-Applied-to-the-Concept-of-Fun
+My first LaTeX article, written informally as an interdisciplinary analysis of patterns of thought
